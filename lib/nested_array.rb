@@ -50,11 +50,12 @@ def sorted_matrix
   
 ], 
 [
+  "Asparagus",
   "Strawberries",
   "Potatoes",
   "Grapes",
   "Avocadoes",
-  "Asparagus"
+  
 ]
 
 end
