@@ -55,7 +55,7 @@ def sorted_matrix
   "Avocadoes",
   "Asparagus"
 ]
-produce.sort
+
 end
 
 def matrix_lookup(matrix, row, column)
